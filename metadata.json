@@ -1,0 +1,6 @@
+{
+  "name": "PPTX HTML Renderer Studio",
+  "description": "High-fidelity PPTX to HTML Presentation Renderer with normalized OOXML IR inspector, hybrid SVG/HTML engine, and standalone deck exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
